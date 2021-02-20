@@ -2,7 +2,8 @@
 > There are unmistakable signs of a major change in trade within the TMEC region during the Covid-19 outbreak, especially on the second quarter of 2020, this project aims to explore those changes in trade and find valuable insights. 	
 
 ## Table of contents
-* [General info](#general-info)
+* 2019 vs 2020 Comparison(https://github.com/Abigail-GG/Project-1/blob/main/2019vs2020_Comparision-Final.ipynb)
+* TMEC Analysis()
 
 ## General info
 Trade is expected to be affected by the Covid-19 outbreak, resulting in a major reconfiguration of global trade and, as a consequence a more important role for regions. Exploring how trade is changing within the TMEC region would support important decisions on trade policies.
