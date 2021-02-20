@@ -3,7 +3,7 @@
 
 ## Table of contents
 * [2019 vs 2020 Comparison](https://github.com/Abigail-GG/Project-1/blob/main/2019vs2020_Comparision-Final.ipynb)
-  Graphs with absolute trade values changes in trade within the USMCA region per country, and a graph showing abosolute export values with percentage change for the whole region.
+  Graphs with absolute trade value changes in trade within the USMCA region per country, and a graph showing abosolute export value for each month with percentage change for the whole region.
   
 * [TMEC Analysis](https://github.com/Abigail-GG/Project-1/blob/main/tmec_analysis.ipynb)
   Visualizations of time series from 2016 to 2020 for trade within the USMCA region and for each of the analyzed countries and commodities.
